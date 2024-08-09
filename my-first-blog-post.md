@@ -1,3 +1,11 @@
+---
+layout: post
+title: "我的第一篇博客文章"
+date: 2023-04-30
+categories: [技术, 博客]
+tags: [GitHub, 博客]
+---
+
 # 环境准备
 
 1. **Node.js**
