@@ -1,25 +1,17 @@
----
-layout: post
-title: "ÎÒµÄµÚÒ»Æª²©¿ÍÎÄÕÂ"
-date: 2023-04-30
-categories: [¼¼Êõ, ²©¿Í]
-tags: [GitHub, ²©¿Í]
----
-
-# »·¾³×¼±¸
+# ç¯å¢ƒå‡†å¤‡
 
 1. **Node.js**
-   - ÏÂÔØ×îĞÂ°æ±¾µÄNode.js: [Node.js¹ÙÍø](https://nodejs.org/zh-cn)
+   - ä¸‹è½½æœ€æ–°ç‰ˆæœ¬çš„Node.js: [Node.jså®˜ç½‘](https://nodejs.org/zh-cn)
 
 2. **Git**
-   - ÏÂÔØGit²¢½øĞĞ»·¾³²¿Êğ: [Git¹ÙÍø](https://git-scm.com/)
-   - ²Î¿¼½Ì³Ì: [GitÏÂÔØºÍ²¿Êğ½Ì³Ì](https://blog.csdn.net/qq_42547733/article/details/129956784?ops_request_misc=%257B%2522request%255Fid%2522%253A%2522172321472516800180682318%2522%252C%2522scm%2522%253A%252220140713.130102334.pc%255Fall.%2522%257D&request_id=172321472516800180682318&biz_id=0&utm_medium=distribute.pc_search_result.none-task-blog-2~all~first_rank_ecpm_v1~hot_rank-5-129956784-null-null.142^v100^pc_search_result_base4&utm_term=Git%E4%B8%8B%E8%BD%BD%E5%92%8C%E9%83%A8%E7%BD%B2&spm=1018.2226.3001.4187)
+   - ä¸‹è½½Gitå¹¶è¿›è¡Œç¯å¢ƒéƒ¨ç½²: [Gitå®˜ç½‘](https://git-scm.com/)
+   - å‚è€ƒæ•™ç¨‹: [Gitä¸‹è½½å’Œéƒ¨ç½²æ•™ç¨‹](https://blog.csdn.net/qq_42547733/article/details/129956784?ops_request_misc=%257B%2522request%255Fid%2522%253A%2522172321472516800180682318%2522%252C%2522scm%2522%253A%252220140713.130102334.pc%255Fall.%2522%257D&request_id=172321472516800180682318&biz_id=0&utm_medium=distribute.pc_search_result.none-task-blog-2~all~first_rank_ecpm_v1~hot_rank-5-129956784-null-null.142^v100^pc_search_result_base4&utm_term=Git%E4%B8%8B%E8%BD%BD%E5%92%8C%E9%83%A8%E7%BD%B2&spm=1018.2226.3001.4187)
 
 3. **Koishi**
-   - ÔÄ¶Á¿ª·¢ÎÄµµ½øĞĞ°²×°: [Koishi¿ª·¢ÎÄµµ](https://koishi.chat/zh-CN/manual/introduction.html)
+   - é˜…è¯»å¼€å‘æ–‡æ¡£è¿›è¡Œå®‰è£…: [Koishiå¼€å‘æ–‡æ¡£](https://koishi.chat/zh-CN/manual/introduction.html)
 
 4. **NapcatQQ**
-   - ÔÄ¶Á¿ª·ÅÎÄµµ½øĞĞ°²×°: [NapcatQQ¿ª·ÅÎÄµµ](https://napneko.github.io/zh-CN/guide/getting-started)
+   - é˜…è¯»å¼€æ”¾æ–‡æ¡£è¿›è¡Œå®‰è£…: [NapcatQQå¼€æ”¾æ–‡æ¡£](https://napneko.github.io/zh-CN/guide/getting-started)
 
-5. **Linux»·¾³ÅäÖÃ**
-   - Èç¹ûÃ»ÓĞLinux»·¾³£¬ĞèÒª½øĞĞÅäÖÃ¡£
+5. **Linuxç¯å¢ƒé…ç½®**
+   - å¦‚æœæ²¡æœ‰Linuxç¯å¢ƒï¼Œéœ€è¦è¿›è¡Œé…ç½®ã€‚
